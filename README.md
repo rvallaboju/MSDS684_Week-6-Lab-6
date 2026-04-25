@@ -32,5 +32,5 @@ This repository contains the Week 6 Lab 6 notebook for the MSDS 684 course. The 
 ## Running the Notebook
 To run the notebook, use the following command in your terminal:
 ```bash
-jupyter notebook Lab6/notebook.ipynb
+jupyter notebook Vallaboju_Ruthika_Lab 6.ipynb
 ```
